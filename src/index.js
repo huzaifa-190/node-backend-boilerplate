@@ -1,0 +1,1 @@
+console.log("Server is running ... \n\nStart building inside index.js");
